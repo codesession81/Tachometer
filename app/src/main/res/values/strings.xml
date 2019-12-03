@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tachometer</string>
+
+    <!--Anzeige GPS angeschaltet-->
+    <string name="gps_angeschaltet">GPS angeschaltet</string>
+
+</resources>
